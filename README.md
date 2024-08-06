@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Python Projects.
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on Web devlopment and Python/jango based Projecs
-- 🤔 I’m looking for help with [something you need help with]
+- 🤔 I’m looking for the role of Jr. Python Developer.
 - 💬 Ask me about : Python , HTML , CSS , Java , Django
 - 📫 How to reach me: https://www.linkedin.com/in/deveshi-nema-26b301244/
 - 😄 Pronouns: She/Her
