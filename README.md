@@ -7,7 +7,6 @@
 - 💬 Ask me about : Python , HTML , CSS , Java , Django
 - 📫 How to reach me: https://www.linkedin.com/in/deveshi-nema-26b301244/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: [something interesting about yourself]
 
 ### Languages and Tools:
 
