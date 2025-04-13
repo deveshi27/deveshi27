@@ -1,10 +1,10 @@
 ### Hi there, I'm Deveshi 👋
 
-- 🔭 I’m currently working on Python Projects.
-- 🌱 I’m currently learning Django.
-- 👯 I’m looking to collaborate on Web devlopment and Python/jango based Projecs
-- 🤔 I’m looking for the role of Jr. Python Developer.
-- 💬 Ask me about : Python , HTML , CSS , Java , Django
+- 🔭 I’m currently working as an Intern for the role of MERN Stack Developer.
+- 🌱 I’m currently learning MERN.
+- 👯 I’m looking to collaborate on Web devlopment
+- 🤔 I’m looking for the role of MERN Stack Developer.
+- 💬 Ask me about : Python , HTML , CSS , JavaScript , React.js, Node.js, Figma 
 - 📫 How to reach me: https://www.linkedin.com/in/deveshi-nema-26b301244/
 - 😄 Pronouns: She/Her
 
@@ -13,10 +13,13 @@
 Python: 🐍
 HTML: 🌐
 CSS: 🎨
-Java: ☕
+JavaScript: ☕
 VS Code: 🆚
 Jupyter Notebook: 📒
 Django: 🎸
+React.js
+Node.js
+Figma
 
 
 ### Projects:
