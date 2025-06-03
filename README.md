@@ -18,7 +18,7 @@ I'm a passionate and dedicated **MERN Stack Developer Intern**, currently sharpe
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frontend:** React.js, Bootstrap, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Database:** MongoDB, MySQL 
 - **Design & Prototyping:** Figma  
 - **Version Control:** Git, GitHub  
 
