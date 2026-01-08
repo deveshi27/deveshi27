@@ -1,5 +1,4 @@
 
-````md
 <h1 align="center">Hi 👋, I'm Deveshi Nema</h1>
 <h3 align="center">Data Engineer • Real-Time ETL • Cloud • Streaming</h3>
 
@@ -48,11 +47,11 @@ React.js & Next.js interfaces for dashboards and tools
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveshiNema&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deveshi27&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshiNema&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshi27&theme=tokyonight" />
 </p>
 
 ---
