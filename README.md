@@ -44,17 +44,6 @@ React.js & Next.js interfaces for dashboards and tools
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deveshi27&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshi27&theme=tokyonight" />
-</p>
-
----
 
 ### 🌱 Currently Learning
 
