@@ -12,7 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Building+Real-Time+Data+Pipelines;Apache+Airflow+%7C+Kafka+%7C+Spark;AWS+%7C+Azure+Cloud;React.js+%7C+Next.js+Frontend" />
 </p>
 
----
 
 ```python
 class DeveshiNema:
@@ -25,7 +24,6 @@ class DeveshiNema:
     ]
     mindset = "Design scalable systems, not just pipelines"
 ````
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
