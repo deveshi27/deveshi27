@@ -98,6 +98,11 @@ class DeveshiNema:
 <tr>
 
 <td width="42%" valign="top">
+</td>
+
+<td width="6%"></td> <!-- spacer -->
+
+<td width="42%" valign="top">
 
 ### AI & Generative AI Applications
 
@@ -109,6 +114,18 @@ class DeveshiNema:
 - FastAPI-based AI services
 - Prompt engineering and workflow automation
 - AI agents integrated with business workflows
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td width="42%" valign="top">
   
 ### Orchestration & Control Plane
 <img src="https://skillicons.dev/icons?i=airflow" />
