@@ -4,12 +4,13 @@
 </h1>
 
 <p align="center" style="font-size:20px; color:#475569;">
-   Data Engineer •  Real-Time ETL •  Cloud •  Streaming • Backend
+   Data Engineer •  Real-Time ETL •  Cloud •  Streaming • Backend • AI/GenAI
 </p>
 
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Building+Real-Time+Data+Pipelines;Apache+Airflow+%7C+Kafka+%7C+Spark;AWS+%7C+Azure+Cloud;React.js+%7C+Next.js+Frontend" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real-Time+Data+Pipelines;Apache+Airflow+%7C+Kafka+%7C+Spark;AWS+%7C+Azure+Cloud;FastAPI+%7C+React+%7C+Next.js;AI+Applications+%7C+RAG+%7C+LLMs" />
 </p>
 
 
@@ -21,8 +22,18 @@ class DeveshiNema:
         "Kafka", "Spark (Batch & Streaming)",
         "AWS", "Azure",
         "React.js", "Next.js"
+
+        "LLMs",
+        "RAG",
+        "Vector Databases",
+        "LangChain",
+        "OpenAI APIs",
+        "Prompt Engineering"
     ]
-    mindset = "Design scalable systems, not just pipelines"
+     mindset = (
+        "Design scalable systems, intelligent applications, "
+        "and reliable data platforms"
+    )
 ````
 
 <p align="center">
@@ -35,6 +46,11 @@ class DeveshiNema:
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0A66C2?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" />
 </p>
 
 ## What I Actually Build
@@ -83,6 +99,17 @@ class DeveshiNema:
 
 <td width="42%" valign="top">
 
+### AI & Generative AI Applications
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+- Retrieval-Augmented Generation (RAG) systems
+- LLM-powered applications using OpenAI APIs
+- Vector search and semantic retrieval
+- FastAPI-based AI services
+- Prompt engineering and workflow automation
+- AI agents integrated with business workflows
+  
 ### Orchestration & Control Plane
 <img src="https://skillicons.dev/icons?i=airflow" />
 
@@ -124,8 +151,8 @@ class DeveshiNema:
 
 <blockquote>
   <i>
-    I design data systems assuming failure, scale, and late-arriving data —
-    because production environments are never ideal.
+    I build data and AI systems that remain reliable under scale,
+    resilient under failure, and useful in real-world production environments.
   </i>
 </blockquote>
 
