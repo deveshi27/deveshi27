@@ -68,24 +68,25 @@ class DeveshiNema:
 
 <td width="42%" valign="top">
 
-### ETL Pipelines for real-time Data
+### ETL Pipelines & Real-Time Data Processing
 <img src="https://skillicons.dev/icons?i=kafka,spark" />
 
-- Event-driven ingestion with Kafka  
-- Spark Structured Streaming processing  
-- S3 & Elasticsearch as sinks 
+- Event-driven data ingestion with Kafka
+- Stream processing using Spark Structured Streaming
+- Data delivery to S3 and Elasticsearch
 
 </td>
 
-<td width="6%"></td> <!-- spacer -->
+<td width="6%"></td>
 
 <td width="42%" valign="top">
 
 ### Cloud Data Platforms
 <img src="https://skillicons.dev/icons?i=aws,azure" />
 
-- Azure ingestion & analytics using ADF, ADLS Gen2, Databricks  
-- AWS data lakes with S3, Glue ETL, event-driven Lambda jobs
+- Azure analytics platforms using ADF, ADLS Gen2, and Databricks
+- AWS data lakes with S3, Glue ETL, and Lambda
+- Scalable cloud-native data architectures
 
 </td>
 
@@ -98,14 +99,8 @@ class DeveshiNema:
 <tr>
 
 <td width="42%" valign="top">
-</td>
-
-<td width="6%"></td> <!-- spacer -->
-
-<td width="42%" valign="top">
 
 ### AI & Generative AI Applications
-
 <img src="https://skillicons.dev/icons?i=python" />
 
 - Retrieval-Augmented Generation (RAG) systems
@@ -117,6 +112,19 @@ class DeveshiNema:
 
 </td>
 
+<td width="6%"></td>
+
+<td width="42%" valign="top">
+
+### Orchestration & Control Plane
+<img src="https://skillicons.dev/icons?i=airflow" />
+
+- Workflow orchestration with Apache Airflow
+- DAG-based scheduling and dependency management
+- Separation of orchestration and compute layers
+
+</td>
+
 </tr>
 </table>
 
@@ -126,26 +134,27 @@ class DeveshiNema:
 <tr>
 
 <td width="42%" valign="top">
-  
-### Orchestration & Control Plane
-<img src="https://skillicons.dev/icons?i=airflow" />
-
-- Workflow orchestration with Airflow  
-- DAG-based pipeline orchestration 
-- Clear separation of orchestration & compute  
-
-</td>
-
-<td width="6%"></td> <!-- spacer -->
-
-<td width="42%" valign="top">
 
 ### Backend for Data Platforms
 <img src="https://skillicons.dev/icons?i=fastapi,postgres" />
 
-- FastAPI services supporting data systems  
-- Schema validation and migrations  
-- APIs built for internal platforms  
+- FastAPI services supporting data platforms
+- Database design, schema validation, and migrations
+- Internal APIs for platform and analytics workloads
+
+</td>
+
+<td width="6%"></td>
+
+<td width="42%" valign="top">
+
+### Data Engineering Foundations
+<img src="https://skillicons.dev/icons?i=python,docker,linux" />
+
+- Python-based data engineering solutions
+- Containerized deployments with Docker
+- Linux-based development and operations
+- Production-ready data workflows
 
 </td>
 
